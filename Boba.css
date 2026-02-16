@@ -1,0 +1,23 @@
+body{
+    background-color: #135cc3;
+    text-align: center;
+  background-image: url("Screenshot 2026-02-16 235723.png");
+    
+     background-repeat: no-repeat; 
+  background-size: cover;      
+  background-position: center; 
+  background-attachment: fixed; 
+  
+
+}
+
+h1{
+    color: rgb(0, 4, 255);
+    background-color: blanchedalmond;
+}
+img {height: 500 px;}
+h2{
+        background-color: blanchedalmond;
+
+    color: rgb(13, 0, 255);
+}
